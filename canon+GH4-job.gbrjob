@@ -5,17 +5,17 @@
       "Application": "Pcbnew",
       "Version": "8.0.6"
     },
-    "CreationDate": "2024-11-17T16:19:30-03:00"
+    "CreationDate": "2024-11-17T22:45:40-03:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "canon+GH4",
       "GUID": "63616e6f-6e2b-4474-9834-2e6b69636164",
-      "Revision": "rev?"
+      "Revision": "V1.0"
     },
     "Size": {
-      "X": 28.55,
-      "Y": 35.55
+      "X": 27.05,
+      "Y": 31.05
     },
     "LayerNumber": 2,
     "BoardThickness": 1.6,
@@ -27,7 +27,7 @@
       "PadToPad": 0.2,
       "PadToTrack": 0.2,
       "TrackToTrack": 0.2,
-      "MinLineWidth": 0.2,
+      "MinLineWidth": 0.5,
       "TrackToRegion": 0.6,
       "RegionToRegion": 0.6
     }
