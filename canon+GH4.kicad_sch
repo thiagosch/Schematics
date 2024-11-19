@@ -869,7 +869,7 @@
 		)
 		(uuid "83689fbd-d15a-4ed9-8759-da0ddb6355d2")
 	)
-	(label "Focus_Input_GH4"
+	(label "Shutter_Input_GH4"
 		(at 132.08 40.64 0)
 		(fields_autoplaced yes)
 		(effects
